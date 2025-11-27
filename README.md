@@ -157,7 +157,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Snov.io](https://snov.io/) | Snov.io is sales automation platform to find, verify, and manage leads, run personalized email campaigns.| **50% OFF** annual plan with code **BLACKFRIDAY** |
 | 💸 | [Appfigures](https://appfigures.com?utm_source=mrsbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads.| 50% OFF monthly and yearly plans **BF2550** |
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
-
+| 💰 | [Agency Handy](https://www.agencyhandy.com/) | Agency Handy is an all-in-one agency management platform with robust CRM and Client Portal features. You can onboard clients seamlessly, manage invoices, subscriptions, manage projects, teams, etc. | 70% off on all yearly plans with code **AHBFCM** (Nov 15 to Dec 5, 2025). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
